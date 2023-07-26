@@ -1,15 +1,15 @@
-<h3 align="center">Hi, I'm Daniel 👋</h3>
-<p align="center">Full-stack developer based in Surrey, England</p>
+<h3 align="center">Hi, I'm Kipras 👋</h3>
+<p align="center">Full-stack developer based in Florida, United States</p>
 
 <p align="center">
-  <a href="mailto:djvgeorge@gmail.com">Email</a>  ·
-  <a href="https://google.com">Website</a>  ·
-  <a href="https://www.fiverr.com/programmer_guy1">Fiverr</a>
+  <a href="mailto:kipraszapas@gmail.com">Email</a>  ·
+  <a href="https://kipstudios.net">Website</a>  ·
+  <a href="discordapp.com/users/563471308336267264">Discord</a>
 </p>
 
 ---
 
 <h3 align="center">My Skills</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?perline=10&i=js,html,css,ts,nodejs,nextjs,react,tailwind,svelte,sass,py,flask,mysql,c,git,supabase,tailwind,unity,cs,figma" />
+  <img src="https://skillicons.dev/icons?perline=10&i=js,html,css,ts,react,tailwind,py,flask,git,firebase,tailwind,unity,cs,figma" />
 </p>
