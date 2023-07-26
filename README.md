@@ -11,5 +11,5 @@
 
 <h3 align="center">My Skills</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?perline=10&i=js,html,css,ts,react,tailwind,py,flask,git,firebase,tailwind,unity,cs,figma" />
+  <img src="https://skillicons.dev/icons?perline=10&i=js,html,css,codepen,ae,discord, dart,eclipse,flutter,github,heroku,ps,netlify,replit,selenium,bootstrap,atom,pr,react,tailwind,py,flask,git,firebase,tailwind,unity,cs,figma" />
 </p>
