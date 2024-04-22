@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:kipraszapas@gmail.com">Email</a>  ·
-  <a href="https://kipstudios.net">Website</a>  ·
+  <a href="https://kiprasvitas.com">Website</a>  ·
   <a href="discordapp.com/users/563471308336267264">Discord</a>
 </p>
 
